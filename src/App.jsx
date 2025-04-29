@@ -44,7 +44,7 @@ export default function TodoApp() {
   
   return (
     <div className="max-w-md mx-auto mt-10 p-6 bg-white rounded-lg shadow-lg">
-      <h1 className="text-2xl font-bold text-center mb-6 text-blue-600">React Todo List</h1>
+      <h1 className="text-2xl font-bold text-center mb-6 text-blue-600">Todo List</h1>
       
       <div className="flex mb-4">
         <input
